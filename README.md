@@ -1,5 +1,5 @@
-**install dependencies**:npm i or npm install
-**start server**:npm run dev
+-**install dependencies**:npm i or npm install
+-**start server**:npm run dev
 
 1. **get_scenario**
    - **Method**: GET
